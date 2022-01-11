@@ -42,7 +42,7 @@
 - 기간 : 22.01.03 ~ 22.03.15
 - 참고 : 백기선 님이 유튜브로 진행하는 [live-study]의 커리큘럼 키워드 참조
 - 매주 각자가 원하는 플랫폼에 작성하여 Issue로 공유
-- [docs 바로가기]https://docs.google.com/document/d/1vegwGAWQE-LROHtk79GQaeLcf6VNxUHxEeQSHlT7zIY/edit#
+- [docs 바로가기](https://docs.google.com/document/d/1vegwGAWQE-LROHtk79GQaeLcf6VNxUHxEeQSHlT7zIY/edit#)
 
 
 [@jungyoonoh]: https://github.com/jungyoonoh
