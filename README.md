@@ -6,9 +6,6 @@
   - 정윤오 : [@jungyoonoh]
   - 백재민 : [@Acver14]
 - 회의 시간 : 매주 화요일 밤 10시
-- 각자의 브런치에 프로젝트 관리
-  - 정윤오 : [바로가기](https://github.com/jungyoonoh/Spring-Boot-Study/tree/yoonoh)    
-  - 백재민 : [바로가기](https://github.com/jungyoonoh/Spring-Boot-Study/tree/jaemin)    
 
 <br>
 
