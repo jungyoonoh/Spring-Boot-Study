@@ -33,6 +33,11 @@ dependencies {
     implementation('org.springframework.boot:spring-boot-starter-web')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
 
+    // Spring Boot용 Spring Data Jpa 추상화 라이브러리
+    implementation('org.springframework.boot:spring-boot-starter-data-jpa')
+    // 인메모리 RDB, 메모리에서 실행되므로 재시작마다 DB가 초기화됨
+    implementation('com.h2database:h2')
+
 //    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
 //    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }
