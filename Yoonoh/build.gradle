@@ -37,6 +37,8 @@ dependencies {
     implementation('org.springframework.boot:spring-boot-starter-data-jpa')
     // 인메모리 RDB, 메모리에서 실행되므로 재시작마다 DB가 초기화됨
     implementation('com.h2database:h2')
+    // 화면 구성을 위한 머스테치 템플릿 엔진
+    implementation('org.springframework.boot:spring-boot-starter-mustache')
 
 //    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
 //    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
