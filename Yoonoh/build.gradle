@@ -39,7 +39,12 @@ dependencies {
     implementation('com.h2database:h2')
     // 화면 구성을 위한 머스테치 템플릿 엔진
     implementation('org.springframework.boot:spring-boot-starter-mustache')
-
+    // OAuth 2.0
+    implementation('org.springframework.boot:spring-boot-starter-oauth2-client')
+    // 세션 저장
+    implementation('org.springframework.session:spring-session-jdbc')
+    // 스프링 시큐리티 테스트를 위한 도구
+    testImplementation('org.springframework.security:spring-security-test')
 //    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
 //    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }
