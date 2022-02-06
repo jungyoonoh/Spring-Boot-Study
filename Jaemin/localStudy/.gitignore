@@ -1,0 +1,5 @@
+.java-version
+.gradle
+.idea
+
+application-oauth.properties
