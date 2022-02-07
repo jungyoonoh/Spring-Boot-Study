@@ -45,6 +45,8 @@ dependencies {
     implementation('org.springframework.session:spring-session-jdbc')
     // 스프링 시큐리티 테스트를 위한 도구
     testImplementation('org.springframework.security:spring-security-test')
+    // MariaDB 드라이버
+    implementation('org.mariadb.jdbc:mariadb-java-client')
 //    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
 //    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }
