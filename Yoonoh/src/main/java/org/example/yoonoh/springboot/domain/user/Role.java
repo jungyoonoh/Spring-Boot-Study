@@ -2,7 +2,6 @@ package org.example.yoonoh.springboot.domain.user;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Required;
 
 @Getter
 @RequiredArgsConstructor
