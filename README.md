@@ -9,6 +9,11 @@
 
 <br>
 
+> Travis CI 개발환경 구축으로 인해 레포지토리를 분리했습니다  
+- [jungyoonoh's repository]
+- [Acver14's repository]
+<br>
+
 ## 목차
 - 1주차    
   01장, 인텔리제이로 스프링 부트 시작하기    
@@ -45,6 +50,8 @@
 - [docs 바로가기](https://docs.google.com/document/d/1vegwGAWQE-LROHtk79GQaeLcf6VNxUHxEeQSHlT7zIY/edit#)
 
 
+[jungyoonoh's repository]: https://github.com/jungyoonoh/spring-boot-practice
+[Acver14's repository]: https://github.com/Acver14/springbootStudy
 [@jungyoonoh]: https://github.com/jungyoonoh
 [@Acver14]: https://acver.tistory.com
 [live-study]: https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed
